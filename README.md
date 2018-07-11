@@ -12,3 +12,7 @@ ex :
 
 ![alt text](img/index.png)
 
+bloblo | blibli | blabla
+-------|--------|--------
+test | test | test
+ggggggg | rrrrrrr | hhhhhhh
