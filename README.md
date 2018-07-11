@@ -9,3 +9,5 @@ ex :
 3. ```git merge ``` permet de fusionner deux branches.
 4. ```git push``` permet d'envoyer les modfications en local vers Github.
 5. ```git tag``` permet de lister les tags assignés a certains commit.
+
+![alt text](https://github.com/JordanMoulin/git-command-jordan/img/index.png)
