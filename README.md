@@ -10,9 +10,8 @@ ex :
 4. ```git push``` permet d'envoyer les modfications en local vers Github.
 5.  [```git tag```](https://git-scm.com/docs/git-tag) permet de lister les tags assignés a certains commit.
 
-![alt text](img/index.png)
+Android | Apple
+-------|--------
+![](img/android.png) | ![](img/apple.png)
 
-bloblo | blibli | blabla
--------|--------|--------
-test | test | test
-ggggggg | rrrrrrr | hhhhhhh
+![](img/index.png)
